@@ -11,10 +11,10 @@ public class LambdaExpression_2  {
 
         //another way
         Learning2 obj2 = ( int a, int b) -> a * b ;
-        System.out.println(obj1.result(10, 6));
+        System.out.println(obj2.result(10, 6));
 
         //another way
         Learning2 obj3 = (a, b) -> a * b ;
-        System.out.println(obj1.result(10, 7));
+        System.out.println(obj3.result(10, 7));
     }
 }
