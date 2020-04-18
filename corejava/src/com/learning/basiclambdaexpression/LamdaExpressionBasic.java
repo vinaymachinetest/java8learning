@@ -22,7 +22,7 @@ public class LamdaExpressionBasic {
          * In a interface have only one abstract method it is called functional interface
          * e.g Runnable - contains only one method run()
          *     Callable - contains only one method call()
-         *     Comparable - contains only method compareTo()
+         *     Comparator - contains only method compareTo()
          *     ActionLinster -contains only actionPerformed()
          *     Can have one or more default methods
          *     can have one or more static methods
